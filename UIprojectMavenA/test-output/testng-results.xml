@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="56543" started-at="2017-07-16T16:25:14Z" finished-at="2017-07-16T16:26:10Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="56543" started-at="2017-07-16T16:25:14Z" finished-at="2017-07-16T16:26:10Z">
+      <class name="UIPackageMaven.LoginPageTestNG">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:UIPackageMaven.LoginPageTestNG@acaea5]" name="launchBrowser" is-config="true" duration-ms="55383" started-at="2017-07-16T21:55:14Z" finished-at="2017-07-16T21:56:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="verifyHomepageTitle()[pri:0, instance:UIPackageMaven.LoginPageTestNG@acaea5]" name="verifyHomepageTitle" duration-ms="122" started-at="2017-07-16T21:56:09Z" finished-at="2017-07-16T21:56:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomepageTitle -->
+        <test-method status="PASS" signature="terminatebrowser()[pri:0, instance:UIPackageMaven.LoginPageTestNG@acaea5]" name="terminatebrowser" is-config="true" duration-ms="829" started-at="2017-07-16T21:56:09Z" finished-at="2017-07-16T21:56:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminatebrowser -->
+      </class> <!-- UIPackageMaven.LoginPageTestNG -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
